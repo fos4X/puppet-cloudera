@@ -23,7 +23,7 @@
     },
     {
       "version_requirement": "1.x",
-      "name": "nanliu/staging"
+      "name": "puppet/staging"
     },
     {
       "version_requirement": "1.x",
